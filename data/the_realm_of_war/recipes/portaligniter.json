@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:flint"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "the_realm_of_war:the_realmof_war",
+    "count": 1
+  }
+}

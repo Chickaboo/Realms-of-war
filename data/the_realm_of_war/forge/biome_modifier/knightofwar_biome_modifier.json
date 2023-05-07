@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "the_realm_of_war:knightofwar",
+    "weight": 1,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

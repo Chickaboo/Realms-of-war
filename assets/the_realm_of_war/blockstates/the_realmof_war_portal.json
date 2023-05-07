@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_realm_of_war:block/the_realmof_war_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_realm_of_war:block/the_realmof_war_portal_ns"
+    }
+  }
+}

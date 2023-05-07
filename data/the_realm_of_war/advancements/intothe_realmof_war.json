@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "the_realm_of_war:the_realmof_war"
+    },
+    "title": {
+      "translate": "advancements.intothe_realmof_war.title"
+    },
+    "description": {
+      "translate": "advancements.intothe_realmof_war.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "intothe_realmof_war": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "the_realm_of_war:the_realmof_war"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

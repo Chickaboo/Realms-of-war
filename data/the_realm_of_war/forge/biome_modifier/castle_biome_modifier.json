@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "the_realm_of_war:boimeof_war",
+  "features": "the_realm_of_war:castle",
+  "step": "surface_structures"
+}

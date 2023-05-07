@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_realm_of_war:items/sky_portal_igniter"
+  }
+}
