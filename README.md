@@ -1,5 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=Chickaboo&label=Views&color=blue&style=plastic"
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chickaboo&label=Views&color=blue&style=plastic">
 </p>
 
 # Realms-of-war
