@@ -1,3 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=Chickaboo&label=Views&color=blue&style=plastic"
+
+</p>
+
 # Realms-of-war
 This is a Minecraft mod that adds a new dimension.
 It is currently only for Minecraft 1.19.2 Forge.
